@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/jay/Development/android-sdks/ndk/21.3.6528147/build/cmake/platforms.cmake",
+    "/Users/jay/Development/android-sdks/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/Users/jay/Documents/Jayant/Expleo/tutorial/Android/Demo/NDKDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/jay/Development/android-sdks/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jay/Documents/Jayant/Expleo/tutorial/Android/Demo/NDKDemo/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/jay/Development/android-sdks/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jay/Documents/Jayant/Expleo/tutorial/Android/Demo/NDKDemo/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/jay/Development/android-sdks/cmake/3.10.2.4988404/bin/ninja -C \"/Users/jay/Documents/Jayant/Expleo/tutorial/Android/Demo/NDKDemo/app/.cxx/cmake/debug/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/jay/Documents/Jayant/Expleo/tutorial/Android/Demo/NDKDemo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so"
+    }
+  }
+}
